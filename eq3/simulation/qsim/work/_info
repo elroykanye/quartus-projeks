@@ -1,0 +1,114 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/elroy/Dev/quartus_projeks/eq3/simulation/qsim
+T_opt
+!s110 1684710626
+V^BIgE^W@Bk=JO^9SQ_c><3
+04 15 8 work eq3_vhd_vec_tst eq3_arch 1
+=1-c8f750242de5-646aa4dc-1d5-2ccc
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -L cyclonev -L altera -L altera_mf -L 220model -L sgate -L altera_lnsim +acc
+tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+Eeq3
+Z1 w1684710600
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 R8Q7=S23TZUfZQX`okYmE0
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx8 cyclonev 19 cyclonev_components 0 22 H=8iUO_;6mj;RW=_Y;3Q`2
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z8 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 82eQ[5IPhEe@J>8ZDdjdY0
+!i122 0
+R0
+Z9 8eq3.vho
+Z10 Feq3.vho
+l0
+L37 1
+VfzzXCQ29M<AEcZ2[IGJmz1
+!s100 >J_T=j<6n[@f]f1lTAlR32
+Z11 OL;C;2021.2;73
+32
+Z12 !s110 1684710615
+!i10b 1
+Z13 !s108 1684710614.000000
+Z14 !s90 -work|work|eq3.vho|
+Z15 !s107 eq3.vho|
+!i113 0
+Z16 o-work work
+Z17 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 3 eq3 0 22 fzzXCQ29M<AEcZ2[IGJmz1
+!i122 0
+l82
+L56 204
+VQWnKfQ:ZS6El]dk>^`F;Z1
+!s100 FG:_EHa_52lbKL7GZfA^51
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
+Eeq3_vhd_vec_tst
+Z18 w1684710594
+R6
+R7
+!i122 1
+R0
+Z19 8eq3.vwf.vht
+Z20 Feq3.vwf.vht
+l0
+L32 1
+V7G;oc;LNj5AmM2zMU^kha1
+!s100 ZK9C^n[GJ[3=PPPz_Y?hn3
+R11
+32
+R12
+!i10b 1
+Z21 !s108 1684710615.000000
+Z22 !s90 -work|work|eq3.vwf.vht|
+Z23 !s107 eq3.vwf.vht|
+!i113 0
+R16
+R17
+Aeq3_arch
+R6
+R7
+DEx4 work 15 eq3_vhd_vec_tst 0 22 7G;oc;LNj5AmM2zMU^kha1
+!i122 1
+l49
+L34 61
+VOA@kd`^UdXMn:Uj_HWlA_3
+!s100 X0B<<azTKZH>f7<F^Ll?Y3
+R11
+32
+R12
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R16
+R17

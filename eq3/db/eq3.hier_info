@@ -1,0 +1,19 @@
+|eq3
+a => q.IN0
+a => q.IN0
+a => q.IN0
+a => q.IN0
+b => q.IN1
+b => q.IN1
+b => q.IN1
+b => q.IN1
+e => q.IN1
+e => q.IN1
+e => q.IN1
+e => q.IN1
+q[0] <= q.DB_MAX_OUTPUT_PORT_TYPE
+q[1] <= q.DB_MAX_OUTPUT_PORT_TYPE
+q[2] <= q.DB_MAX_OUTPUT_PORT_TYPE
+q[3] <= q.DB_MAX_OUTPUT_PORT_TYPE
+
+
